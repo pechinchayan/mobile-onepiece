@@ -4,28 +4,35 @@
 I. Prototipos
 ```
 
-1. Registrar
+> 1. Registrar
 
 ![](https://i.imgur.com/sGACgWb.png)
-2. Login
+
+> 2. Login
 
 ![](https://i.imgur.com/wvLucNF.png)
-3. Página Principal
+
+> 3. Página Principal
 
 ![](https://i.imgur.com/yPzrywM.png)
-4. Partida
+
+> 4. Partida
 
 ![](https://i.imgur.com/yG2gttx.png)
-5. Mis Resultados
+
+> 5. Mis Resultados
 
 ![](https://i.imgur.com/CBhvff8.png)
-6. Ranking
+
+> 6. Ranking
 
 ![](https://i.imgur.com/CKMyzfH.png)
-7. Configuración
+
+> 7. Configuración
 
 ![](https://i.imgur.com/gdBXfmD.png)
-8. Usuario
+
+> 8. Usuario
 
 ![](https://i.imgur.com/mNO8GHy.png)
 
