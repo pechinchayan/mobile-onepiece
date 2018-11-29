@@ -71,7 +71,10 @@ Historias del Desarrollador (No Funcionales)
 ![](https://i.imgur.com/kdZAAAO.png)
 ![](https://i.imgur.com/rK8wMfH.png)
 
-
+```
+Modelo de Base de Datos
+```
+![](https://i.imgur.com/wz9ewt9.png)
 
 
 
